@@ -1,4 +1,4 @@
-# Pixels-app
+# Pexels-app
 
 # URL
 
