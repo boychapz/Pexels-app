@@ -2,7 +2,7 @@
 
 # URL
 
-https://boychapz.github.io/Pixels-app/
+https://boychapz.github.io/Pexels-app/
 
 # Story
 
