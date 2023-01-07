@@ -17,9 +17,7 @@ img {
    align-items: center;
    color: white;
 }
-/* .navbar-left{
-    padding-right: 600px;
-} */
+
 .navbar-right{
    display: flex;
    
@@ -55,9 +53,6 @@ img {
     margin: 200px 0 0 0;
 }
 #img-section{
-    display: flex;
-    flex-wrap: wrap;
+ 
+    columns: 3;
 }
-/* .pic-divs{
-
-} */
