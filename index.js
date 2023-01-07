@@ -20,7 +20,8 @@ SearchForm.addEventListener('submit', function(e){
           let imageSection = document.getElementById('img-section');
           res.photos.forEach(function (picture) {
             let imgDiv = document.createElement('div');
-            imgDiv.classList.add('pic-divs')
+            imgDiv.classList.add('pic-divs');
+            imgDiv.innerHTML="";
             imgDiv.innerHTML = ` 
             <img src="${picture.src.medium}">
             <p> ${picture.photographer}</p>
